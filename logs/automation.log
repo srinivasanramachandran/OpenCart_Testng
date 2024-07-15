@@ -1,0 +1,21 @@
+2024-07-15 06:08:31 INFO  TC_002_LoginTest:22 - Starting TC_002_LoginTest
+2024-07-15 06:08:34 INFO  TC_002_LoginTest:50 -  Finished TC_002_LoginTest
+2024-07-15 06:08:55 INFO  AccountRegistrationTest:16 - *** starting TC001_AccountRegistrationTest***
+2024-07-15 06:08:55 INFO  AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-07-15 06:09:06 ERROR AccountRegistrationTest:47 - Test failed: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a3900dd9f7e16e2a12bb5af479e8a7b, clickElement {id=f.92125760E3B7AF80387C8ACADC1A8B14.d.4F1E2A4BBCBFD35055AB8F0C741FF8BF.e.5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\susmitha\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57461}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57461/devtoo..., se:cdpVersion: 126.0.6478.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (8a3900dd9f7e16e2a12bb5af479e8a7b)] -> xpath: //span[text()='My Account']]
+Session ID: 8a3900dd9f7e16e2a12bb5af479e8a7b
+2024-07-15 06:09:06 INFO  AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-15 06:10:44 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-07-15 06:11:34 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-07-15 06:11:44 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-07-15 06:11:49 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-07-15 06:12:00 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-07-15 06:12:00 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-07-15 06:12:03 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
